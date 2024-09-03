@@ -12,9 +12,9 @@ print(chaine_double_quotes)
 
 # Exercice 3
 # Créez une variable avec une chaîne multilignes. Assurez-vous qu'elle contient au moins trois lignes de texte. Affichez la variable.
-chaine_multiligne = """Ceci est une chaîne
-qui contient plusieurs
-lignes de texte."""
+chaine_multiligne = """Python c'est génial,
+Java c'est nul,
+le front c'est pour ....."""
 print(chaine_multiligne)
 
 # Exercice 4
